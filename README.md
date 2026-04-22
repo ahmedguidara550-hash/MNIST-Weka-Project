@@ -1,5 +1,4 @@
-<img width="640" height="707" alt="exceldoc" src="https://github.com/user-attachments/assets/a9de53d4-4129-41e7-b1c6-6cd8c04fc468" />
-<img width="640" height="707" alt="exceldoc" src="https://github.com/user-attachments/assets/46f4dadc-f996-42c7-b2f8-3b840c9ea9c0" />
+
 # 🧠 Reconnaissance de Chiffres Manuscrits avec Machine Learning en Java
 
 ## 📝 Présentation du Projet
@@ -38,7 +37,11 @@ L'application permet d'entraîner des modèles d'Intelligence Artificielle à di
 
 ## 👨‍💻 Auteur
 Développé dans le cadre du module de Programmation Orientée Objet (Java).
+L'Interface Graphique :
 <img width="606" height="492" alt="num3RandomForest" src="https://github.com/user-attachments/assets/6601a936-6c77-4c7f-b9ee-53334ea4af55" />
 <img width="606" height="492" alt="num3NaiveBayes" src="https://github.com/user-attachments/assets/1856a16e-78ae-45d9-a79f-f962ec9afe10" />
 <img width="605" height="492" alt="num5RandomForest" src="https://github.com/user-attachments/assets/f6df8c54-5e4a-4816-8f16-c41fc8690422" />
-
+La Console :
+<img width="673" height="492" alt="image" src="https://github.com/user-attachments/assets/10eaa901-52e3-4cfa-985f-b76b9271e1c2" />
+Le fichier Excel :
+<img width="640" height="707" alt="exceldoc" src="https://github.com/user-attachments/assets/a9de53d4-4129-41e7-b1c6-6cd8c04fc468" />
