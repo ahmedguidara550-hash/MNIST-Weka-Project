@@ -1,3 +1,5 @@
+<img width="640" height="707" alt="exceldoc" src="https://github.com/user-attachments/assets/a9de53d4-4129-41e7-b1c6-6cd8c04fc468" />
+<img width="640" height="707" alt="exceldoc" src="https://github.com/user-attachments/assets/46f4dadc-f996-42c7-b2f8-3b840c9ea9c0" />
 # 🧠 Reconnaissance de Chiffres Manuscrits avec Machine Learning en Java
 
 ## 📝 Présentation du Projet
