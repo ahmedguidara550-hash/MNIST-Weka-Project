@@ -1,4 +1,6 @@
+package data;
 import java.util.List;
+
 import exceptions.MnistIOException;
 public abstract class DataSource {
 	protected String filePath;
